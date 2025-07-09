@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #2667ea;
     font-family: Arial, sans-serif;
 }
 div {
@@ -8,6 +8,12 @@ div {
     background-color: #ffffff;
     border: 1px solid #cccccc;
     border-radius: 5px;
+}
+
+h1 {
+    color: #333333;
+    font-size: 24px;
+    text-align: center;
 }
 
 .primere 
@@ -22,4 +28,9 @@ div {
 .troisieme
 {
     background-color: #ef1154;
+}
+
+.quatrieme
+{
+    background-color: #c8e6c9;
 }

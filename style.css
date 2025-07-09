@@ -34,3 +34,11 @@ h1 {
 {
     background-color: #c8e6c9;
 }
+
+.cinquieme
+{
+    background-color: #ffccbc;
+    border: 2px solid #bf360c;
+    color: #bf360c;
+    font-weight: bold;
+}

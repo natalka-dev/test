@@ -1,0 +1,20 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+div {
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+.primere 
+{
+    background-color: #e0f7fa;
+}
+.deuxemere
+{
+    background-color: #ffe0b2;
+}

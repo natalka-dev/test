@@ -1,5 +1,5 @@
 body {
-    background-color: #2667ea;
+ main
     font-family: Arial, sans-serif;
 }
 div {
@@ -8,37 +8,6 @@ div {
     background-color: #ffffff;
     border: 1px solid #cccccc;
     border-radius: 5px;
-}
 
-h1 {
-    color: #333333;
-    font-size: 24px;
-    text-align: center;
-}
-
-.primere 
-{
-    background-color: #e0f7fa;
-}
-.deuxemere
-{
-    background-color: #ffe0b2;
-}
-
-.troisieme
-{
-    background-color: #ef1154;
-}
-
-.quatrieme
-{
-    background-color: #c8e6c9;
-}
-
-.cinquieme
-{
-    background-color: #ffccbc;
-    border: 2px solid #bf360c;
-    color: #bf360c;
-    font-weight: bold;
+ main
 }
